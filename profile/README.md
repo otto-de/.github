@@ -12,7 +12,7 @@ We welcome contributions from everyone. Whether you're fixing bugs, improving do
 
 ## Stay Connected
 
-- **Website**: [OTTO](https://www.otto.de/unternehmen)
+- **Company website**: [OTTO](https://www.otto.de/unternehmen)
 - **Tech**: [OTTO Tech Blog](https://dev.otto.de)
 - **Shop**: [OTTO Shop](https://www.otto.de)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/company/otto-gmbh-&-co-kg)

@@ -1,6 +1,8 @@
-# Welcome to the OTTO Open Source Space
+# Welcome to OTTO Open Source!
 
-Welcome to OTTO's Open Source Space on GitHub! We are excited to share our projects and collaborate with the global developer community. Our vision is "Responsible commerce that inspires" and we believe open source is a key part of achieving this.
+<img src="otto_logo.png">
+
+Welcome to out open source space on GitHub! We are excited to share our projects and collaborate with the global developer community. Our vision is "Responsible commerce that inspires" and we believe open source is a key part of achieving this.
 
 ## About Us
 

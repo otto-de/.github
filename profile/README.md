@@ -23,7 +23,7 @@ Thank you for visiting our Open Source Space. We look forward to collaborating w
 
 Most projects are licensed under the [Apache License 2.0](LICENSE), but please check individual repositories for specific licensing information.
 
-<img src="otto_find_ich_gut.png" />
+<img src="otto_find_ich_gut.jpg" width="300" height=auto />
 
 
 <!--

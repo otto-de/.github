@@ -13,9 +13,9 @@ We welcome contributions from everyone. Whether you're fixing bugs, improving do
 ## Stay Connected
 
 - **Website**: [OTTO](https://www.otto.de/unternehmen)
-- **Tech**: [OTTO](https://dev.otto.de)
-- **Shop**: [OTTO](https://www.otto.de)
-- **LinkedIn**: [OTTO](https://www.linkedin.com/company/otto-gmbh-&-co-kg)
+- **Tech**: [OTTO Tech Blog](https://dev.otto.de)
+- **Shop**: [OTTO Shop](https://www.otto.de)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/company/otto-gmbh-&-co-kg)
 
 Thank you for visiting our Open Source Space. We look forward to collaborating with you!
 

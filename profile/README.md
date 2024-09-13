@@ -4,16 +4,17 @@ Welcome to OTTO's Open Source Space on GitHub! We are excited to share our proje
 
 ## About Us
 
-OTTO is the largest German online retailer and a leading retail company based in Hamburg, Germany. As part of the Otto Group, we are committed to innovation and sustainability in the retail sector. Our dedication to responsible commerce drives us to contribute to the open source community.
+OTTO is the largest German online retailer and a leading retail company based in Hamburg, Germany. As part of the Otto Group, we are committed to innovation and sustainability in the retail sector. We encourage our employees to work on open source projects, fostering a culture of collaboration and innovation.
 
 ## Get Involved
 
-We welcome contributions from everyone. Whether you're fixing bugs, improving documentation, or proposing new features, your input is valuable to us. Please check our contribution guidelines to get started.
+We welcome contributions from everyone. Whether you're fixing bugs, improving documentation, or proposing new features, your input is valuable to us.
 
 ## Stay Connected
 
-- **Website**: [OTTO](https://www.otto.de)
-- **Twitter**: [@otto_de](https://twitter.com/otto_de)
+- **Website**: [OTTO](https://www.otto.de/unternehmen)
+- **Tech**: [OTTO](https://dev.otto.de)
+- **Shop**: [OTTO](https://www.otto.de)
 - **LinkedIn**: [OTTO](https://www.linkedin.com/company/otto-gmbh-&-co-kg)
 
 Thank you for visiting our Open Source Space. We look forward to collaborating with you!
@@ -21,6 +22,7 @@ Thank you for visiting our Open Source Space. We look forward to collaborating w
 ## License
 
 Most projects are licensed under the [Apache License 2.0](LICENSE), but please check individual repositories for specific licensing information.
+
 
 <!--
 

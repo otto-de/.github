@@ -1,6 +1,6 @@
 # Welcome to OTTO Open Source!
 
-<img src="otto_logo.png">
+<img src="otto_logo.png" width="400">
 
 Welcome to out open source space on GitHub! We are excited to share our projects and collaborate with the global developer community. Our vision is "Responsible commerce that inspires" and we believe open source is a key part of achieving this.
 
@@ -25,7 +25,7 @@ Thank you for visiting our Open Source Space. We look forward to collaborating w
 
 Most projects are licensed under the [Apache License 2.0](LICENSE), but please check individual repositories for specific licensing information.
 
-<img src="live-shopping.jpg" width="500" />
+<img src="live-shopping.jpg" width="400" />
 
 
 <!--

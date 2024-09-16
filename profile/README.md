@@ -2,11 +2,14 @@
 
 <p align="center"><img src="otto_logo.png" width="400"></p>
 
-Welcome to out open source space on GitHub! We are excited to share our projects and collaborate with the global developer community. Our vision is "Responsible commerce that inspires" and we believe open source is a key part of achieving this.
+Welcome to out open source space on GitHub! We are excited to share our projects and collaborate with the global developer community.
+Our vision is "Responsible commerce that inspires" and we believe open source is a key part of achieving this.
 
 ## About Us
 
-OTTO is the largest German online retailer and a leading retail company based in Hamburg, Germany. As part of the Otto Group, we are committed to innovation and sustainability in the retail sector. We encourage our employees to work on open source projects, fostering a culture of collaboration and innovation.
+OTTO is the largest online fashion and lifestyle retailer for end consumers in Germany - and currently on its way to become an e-commerce platform.
+As part of the Otto Group, we are committed to innovation and sustainability in the retail sector.
+We encourage our employees to work on open source projects, fostering a culture of collaboration and innovation.
 
 ## Get Involved
 

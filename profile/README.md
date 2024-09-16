@@ -22,8 +22,6 @@ We welcome contributions from everyone. Whether you're fixing bugs, improving do
 - **Shop**: [OTTO Shop](https://www.otto.de)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/company/otto-gmbh-&-co-kg)
 
-Thank you for visiting our Open Source Space. We look forward to collaborating with you!
-
 ## License
 
 Most projects are licensed under the [Apache License 2.0](LICENSE), but please check individual repositories for specific licensing information.

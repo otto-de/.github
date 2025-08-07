@@ -2,7 +2,7 @@
 
 <p align="center"><img src="otto_logo.png" width="400"></p>
 
-Welcome to out open source space on GitHub! We are excited to share our projects and collaborate with the global developer community.
+Welcome to our open source space on GitHub! We are excited to share our projects and collaborate with the global developer community.
 Our vision is "Responsible commerce that inspires" and we believe open source is a key part of achieving this.
 
 ## About Us
